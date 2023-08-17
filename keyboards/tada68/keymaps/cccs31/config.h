@@ -1,0 +1,8 @@
+#pragma once
+
+#define TAPPING_TOGGLE 3
+
+#define MK_KINETIC_SPEED
+#define MOUSEKEY_INTERVAL 8
+#define MOUSEKEY_MOVE_DELTA 12
+#define MOUSEKEY_BASE_SPEED 3000
